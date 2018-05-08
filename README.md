@@ -10,4 +10,4 @@ Use 256 units to accelerate.
 Use as many units as possible to accelerate.
 
 # Results
-Check this [website](https://akronblim.cn/2017/04/05/CUDA_C/).
+Check this [website](https://akronblim.cn/2018/03/12/CUDA_C/).
